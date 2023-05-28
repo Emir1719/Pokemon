@@ -1,3 +1,3 @@
 # pokemon
 
-A new Flutter project.
+Udemy eğitiminden yazdığım Flutter kodları.
